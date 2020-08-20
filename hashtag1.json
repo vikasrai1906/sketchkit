@@ -1,0 +1,107 @@
+[
+    {
+        "hashTagName":"#Top100",
+        "hashTagDes":"#Love #Instagood #PhotoofTheday",
+        "relatedTags":[
+            "#Love","#InstaGood","#PhotoOfTheDay","#Beautiful","#fashion","#TBT","#Happy","#Cute","#FollowMe","#Like4like","#Follow","#Me","#PicOfTheDay","#Selfie","#InstaDaily","#Friends","#Summer","#Girl","#Art","#Fun","#Repost","#Smile","#Nature","#InstaLike","#Food","#Style","#tagsForLikes","#Family","#likeForLikes","#Igers","#Fitness","#Notifier","#Follow4Follow","#InstaMood","#Amazing","#Life","#Travel","#Beauty","#Vscocam","#Sun","#BestOfTheDay","#Music","#FollowForFollow","#Beach","#Instagram","#Photo","#Sky","#vsco","#Dog","#I4I","#Ootd","#Pretty","#Swag","#MakeUp","#FoodPorn","#Hair","#Cat","#Party","#Girls","#Photography","#Cool","#Baby","#Lol","#Tflers","#Model","#Motivation","#Night","#Instapic","#Funny","#Gym","#Healthy","#Yummy","#Hot","#Design","#Black","#Pink","#Flowers", "#Christmas","#Blue","#Work","#InstaFood","#Fit","#InstaCool","#IPhneOnly","#Wedding","#BlackAndWhite","@WorkOut","#LifeStyle","#HandMade","#FollowBack","#instaFollow","#Home","#Drawing","#My","#NYC","#Webstagram","#Sweet","#InstaLove"
+        ]
+    },
+    {
+        "hashTagName":"#Nature",
+        "hashTagDes": "#Nature #NatureLove",
+        "relatedTags": [
+                   "#Nature","#NatureLove","NaturePhotoGrapgy","#Photography","#Travel","#Love","#PhotoOfTheDay","#Landscape","#InstaGood","#NatureLovers","#Beautiful","#PicOfTheDay","#Photo","#Instagram","#Hiking","#LandscapePhotography","#Green","#Outdoors","#Explore"
+        ]
+    },
+    {
+        "hashTagName":"#Art",
+        "hashTagDes":"#Art #Artist #Drawing",
+        "relatedTags":[
+            "#Art","#Artist","#Drawing","#ArtLove","#Love","#Photography","#Painting","#Illustration","#DigitalArt","#InstaGood","#Sketch","#Design","#PhotoOfTheDay","#Fashion","#Draw","#Beautiful","#InstaArt","#FanArt"
+        ]
+    },
+    {
+        "hashTagName":"#Photography",
+        "hashTagDes":"#Photography #PhotoOfTheDay",
+        "relatedTags":[
+            "#Photography","#PhotoOfTheDay","#PicOfTheDay","#Photo","#Photographer","#InstaGood","#Nature","#Instagram","#PicOfTheDay","#Art","#PhotoShoot","#Beautiful","#Canon","#TravelPhotography","#Beautiful","#Landscape"
+        ]
+    },
+    {
+        "hashTagName":"#Food",
+        "hashTagDes":"#Food #Foodie #FoodLover",
+        "relatedTags":[
+            "#Food","#Foodie","#FoodLover","#FoodPhotography","#InstaGood","#Yummy","#FoodBlogger","#Love","#Delecious","#FoodBeleiver","#Follow","#Like","HealthyFood","#FoodGasm","#HomeMade","#Foodies","#Cooking","#Lunch","#Restauranr", "#Healthy","#Eat","#Chef","#Instagram"
+        ]
+    },
+    {
+        "hashTagName":"#Music",
+        "hashTagDes":"#Music #MusicLover #LoveMusic",
+        "relatedTags":[
+            "#Music","#MusicLover","#LoveMusic","#Musician","#Love","#Rap","#Musician","#Art","#Musician","#Singer","#DJ","#Rock","#Dance","#InstaGood","#like","#Instagram","#Follow","#Guitar","#Song","#Party","LiveMusic","#Photography","#Concert","#NewMusic","#Producer","#InstaMusic","#MusicVideo","#Life","#BHYP"
+        ]
+    },
+    {
+        "hashTagName":"#Fashion",
+        "hashTagDes":"#Fashion #FashionDesigner #Fashioner",
+        "relatedTags":[
+            "#Fashion","#FashionDesigner","#Fashioner","#Style","#Like","#Food","#Photography","#Model","#PhotoOfTheDay","#Beautiful","#FashionBlogger","#Moda","#Follow","#Beauty","#Instagram","#Fashionista","#Art","#InstaFashion","#Cute","#PicOfTheDay","#Happy","#MakeUp","#Girl","#FolloMe","#Shopping","#LifeStyle","#InstaDaily","#Design","#BHYP"
+        ]
+    },
+    {
+        "hashTagName":"#Travel",
+        "hashTagDes":"#Travel #Nature #Traveler",
+        "relatedTags":[
+            "#Travel","#Nature","#Traveler"
+        ]
+    },
+    {
+        "hashTagName":"#Fitness",
+        "hashTagDes":"#Fitness #FitnessFreak #Gym",
+        "relatedTags":[
+            "#Fitness","#FitnessFreak","#Gym"
+        ]
+    },
+    {
+        "hashTagName":"#Painting",
+        "hashTagDes":"#Painting #Painter #Artist",
+        "relatedTags":[
+            "#Painting","#Painter","#Artist"
+        ]
+    },
+    {
+        "hashTagName":"#Dogs",
+        "hashTagDes":"#Dogs #DogsOfInstagram ##Dog",
+        "relatedTags":[
+            "#Dogs","#DogsOfInstagram","#Dog","#Dogstagram","#Puppy","#InstaDog","#DogOfTheDay","#Pets","#DogLovers","#Love","#DogLife","#Puppies","#Pet","#Cute","#Instagram","PuppyLove","DogsOfInsta","#PuppiesOfInstagram","#doogo","#ILoveMyDog","#PetsOfInstagram"
+        ]
+    },
+    {
+       "hashTagName":"#Cats",
+       "hashTagDes":"#Cats #CatsOfInstagram #Cat",
+       "relatedTags":[ 
+           "#Cats","#CatsOfInstagram","#Cat","#Catstagram","#Instagram","#CarLover","#CatLovers","#InstaCat","#Meow","#CatLife","#Pets","#Kitten","#Kitty","#CatOfTheDay","#Cute","#Love","#Pet","#World","#Dogs","#Animals","#CuteCats"
+       ] 
+    },
+    {
+        "hashTagName":"#Reading",
+        "hashTagDes":"#Reading #Bookstagram #Books",
+        "relatedTags":[ 
+            "#Reading","#Bookstagram","#Books","#Book","#BookLover","#BookWorm","#Read","#Bookish","#BookNerd","#BookAddict","#Bibliophile","#Bookstagrammer","#Reader","#Love","#BooksOfInstagram"
+        ]
+    },
+    {
+        "hashTagName":"#Meme",
+        "hashTagDes":"#Meme #Memes #Funny",
+        "relatedTags":[
+            "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
+        ]
+    },
+    {
+        "hashTagName":"#Yoga",
+        "hashTagDes":"#Yoga #Fitness #Meditation",
+        "relatedTags":[
+            "#Yoga","#Fitness","#Meditation","#YogaInspiration","#YogaPractice","#Love","#YogaLife","#YogaEveryDay","#Yogi","#YogaTeacher","#Namaste","#YogaLove"
+        ]
+    }
+]
